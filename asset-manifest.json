@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wow-classic-pve/static/css/main.21af13c3.chunk.css",
+    "main.js": "/wow-classic-pve/static/js/main.11d0c2da.chunk.js",
+    "main.js.map": "/wow-classic-pve/static/js/main.11d0c2da.chunk.js.map",
+    "runtime~main.js": "/wow-classic-pve/static/js/runtime~main.ec1b0063.js",
+    "runtime~main.js.map": "/wow-classic-pve/static/js/runtime~main.ec1b0063.js.map",
+    "static/js/2.9f6d1e17.chunk.js": "/wow-classic-pve/static/js/2.9f6d1e17.chunk.js",
+    "static/js/2.9f6d1e17.chunk.js.map": "/wow-classic-pve/static/js/2.9f6d1e17.chunk.js.map",
+    "index.html": "/wow-classic-pve/index.html",
+    "precache-manifest.84fc9cde54d4e160d66f1151a2414f93.js": "/wow-classic-pve/precache-manifest.84fc9cde54d4e160d66f1151a2414f93.js",
+    "service-worker.js": "/wow-classic-pve/service-worker.js",
+    "static/css/main.21af13c3.chunk.css.map": "/wow-classic-pve/static/css/main.21af13c3.chunk.css.map"
+  }
+}
